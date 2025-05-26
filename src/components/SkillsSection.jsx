@@ -2,7 +2,7 @@ import { useState } from "react";
 import { cn } from "@/lib/utils";
 
 const skills = [
-  // Frontend
+  
   { name: "HTML/CSS", level: 95, category: "frontend" },
   { name: "JavaScript", level: 70, category: "frontend" },
   { name: "React", level: 40, category: "frontend" },
@@ -10,7 +10,7 @@ const skills = [
   { name: "Tailwind CSS", level: 30, category: "frontend" },
 
 
-  // Backend
+ 
   { name: "Java", level: 80, category: "backend" },
   { name: "Oracle", level: 75, category: "backend" },
   { name: "Mysql", level: 75, category: "backend" },
